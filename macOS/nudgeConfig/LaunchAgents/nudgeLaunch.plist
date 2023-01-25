@@ -16,7 +16,7 @@
   <array>
     <string>/Applications/Utilities/Nudge.app/Contents/MacOS/Nudge</string>
     <string>-json-url</string>
-    <string>https://raw.githubusercontent.com/j1sh/intune/main/macOS/nudgeConfig/Preferences/com.github.macadmins.Nudge.json</string>
+    <string>https://raw.githubusercontent.com/diginsights/it-public-intune/main/macOS/nudgeConfig/Preferences/com.github.macadmins.Nudge.json</string>
     <!-- <string>-demo-mode</string> -->
     <!-- <string>-force-screenshot-icon</string> -->
     <!-- <string>-simple-mode</string> -->
