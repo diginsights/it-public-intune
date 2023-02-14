@@ -15,28 +15,28 @@
   },
   "osVersionRequirements": [
     {
-      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT213268",
+      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT213633",
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT213268"
+          "aboutUpdateURL": "https://support.apple.com/en-us/HT213633"
         },
         {
           "_language": "es",
-          "aboutUpdateURL": "https://support.apple.com/es-es/HT213268"
+          "aboutUpdateURL": "https://support.apple.com/es-es/HT213633"
         },
         {
           "_language": "fr",
-          "aboutUpdateURL": "https://support.apple.com/fr-fr/HT213268"
+          "aboutUpdateURL": "https://support.apple.com/fr-fr/HT213633"
         },
         {
           "_language": "de",
-          "aboutUpdateURL": "https://support.apple.com/de-de/HT213268"
+          "aboutUpdateURL": "https://support.apple.com/de-de/HT213633"
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
       "requiredInstallationDate": "2023-02-25T00:00:00Z",
-      "requiredMinimumOSVersion": "13.2",
+      "requiredMinimumOSVersion": "13.2.1",
       "targetedOSVersionsRule": "default"
     }
   ],
